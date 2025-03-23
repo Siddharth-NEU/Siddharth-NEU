@@ -139,6 +139,7 @@ I'm a **Senior Software Engineer** with **3.8+ years** of experience specializin
     </td>
   </tr>
 </table>
+
 ## 🎓 Certifications
 
 <div align="center">
